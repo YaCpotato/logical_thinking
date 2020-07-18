@@ -38,15 +38,15 @@
 
 ### 適材適所・シンキング
 @snap[north span-75]
-@box[bg-green text-white box-padding](ロジカル・シンキング#一貫していて筋が通っている考え方、あるいは説明の仕方)
+@box[bg-green text-white box-padding](ロジカル・シンキング#一貫していて筋が通っている考え方、<br>あるいは説明の仕方)
 @snapend
 
 @snap[midpoint span-75]
-@box[bg-orange text-white box-padding](ラテラル・シンキング#思考の制約となる既成概念や固定観念を取り払い、水平方向に発想を広げる)
+@box[bg-orange text-white box-padding](ラテラル・シンキング#思考の制約となる既成概念や固定観念を<br>取り払い、水平方向に発想を広げる)
 @snapend
 
 @snap[south span-75]
-@box[bg-pink text-white box-padding](クリティカル・シンキング#思考する前提や過程、論理に渡って「本当にそうだろうか？」と問い続けながらの思考)
+@box[bg-pink text-white box-padding](クリティカル・シンキング#思考する前提や過程、論理に渡って<br>「本当にそうだろうか？」と問い続けながらの思考)
 @snapend
 
 ---
