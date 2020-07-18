@@ -37,31 +37,16 @@
 ---
 
 ### 適材適所・シンキング
-#### ロジカル・シンキング
-一貫していて筋が通っている考え方、あるいは説明の仕方
-#### ラテラル・シンキング
-思考の制約となる既成概念や固定観念を取り払い、水平方向に発想を広げる
-#### クリティカル・シンキング
-思考する前提や過程、論理に渡って「本当にそうだろうか？」と問い続けながらの思考
-
----
-
-### 例
-#### 子供達に１７個のリンゴを公平にわける
-* 全員に４個ずつ配り、残りの１つの４等分する
-* 全員に４個ずつ配り、それぞれの総重量を測った後、残りの１つを、１人あたりの総重量が同じになるよう分ける
-
-
----
-
 @snap[north span-75]
-@box[bg-green text-white box-padding](ロジカル・シンキング#全員に４個ずつ配り、残りの１つを４等分する)
+@box[bg-green text-white box-padding](ロジカル・シンキング#一貫していて筋が通っている考え方、あるいは説明の仕方)
 @snapend
 
 @snap[midpoint span-75]
-@box[bg-orange text-white box-padding](クリティカル・シンキング#Sed do eiusmod tempor labore)
+@box[bg-orange text-white box-padding](ラテラル・シンキング#思考の制約となる既成概念や固定観念を取り払い、水平方向に発想を広げる)
 @snapend
 
 @snap[south span-75]
-@box[bg-pink text-white box-padding](ラテラル・シンキング#* ジュースにして４等分する* 全員に４個ずつ配り、残りの１つは配らない)
+@box[bg-pink text-white box-padding](クリティカル・シンキング#思考する前提や過程、論理に渡って「本当にそうだろうか？」と問い続けながらの思考)
 @snapend
+
+---
