@@ -59,7 +59,7 @@
 @box[bg-green text-white box-padding](1. Plan#Lorem ipsum dolor sit amet eiusmod)
 @snapend
 
-@snap[north span-35]
+@snap[midpoint span-35]
 @box[bg-orange text-white rounded box-padding](2. Build#Sed do eiusmod tempor labore)
 @snapend
 
