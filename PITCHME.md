@@ -50,19 +50,18 @@
 #### 子供達に１７個のリンゴを公平にわける
 * 全員に４個ずつ配り、残りの１つの４等分する
 * 全員に４個ずつ配り、それぞれの総重量を測った後、残りの１つを、１人あたりの総重量が同じになるよう分ける
-* ジュースにして４等分する
-* 全員に４個ずつ配り、残りの１つは配らない
+
 
 ---
 
-@snap[north span-35]
-@box[bg-green text-white box-padding](1. Plan#Lorem ipsum dolor sit amet eiusmod)
+@snap[north span-75]
+@box[bg-green text-white box-padding](ロジカル・シンキング#全員に４個ずつ配り、残りの１つを４等分する)
 @snapend
 
-@snap[midpoint span-35]
-@box[bg-orange text-white rounded box-padding](2. Build#Sed do eiusmod tempor labore)
+@snap[midpoint span-75]
+@box[bg-orange text-white box-padding](クリティカル・シンキング#Sed do eiusmod tempor labore)
 @snapend
 
-@snap[south span-35]
-@box[bg-pink text-white box-padding](3. Measure#Cupidatat non proident sunt in)
+@snap[south span-75]
+@box[bg-pink text-white box-padding](ラテラル・シンキング#* ジュースにして４等分する* 全員に４個ずつ配り、残りの１つは配らない)
 @snapend
