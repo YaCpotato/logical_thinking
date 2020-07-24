@@ -30,7 +30,7 @@
 ---
 
 @snap[north-west span-40]
-@box[bg-green text-white box-padding text-12](ヒアリング提案)
+@box[bg-green text-white box-padding text-12](ヒアリング・提案)
 
 @snapend
 
@@ -47,7 +47,7 @@
 @snapend
 
 @snap[midpoint]
-データ分析
+データ分析業務のフロー
 @fa[refresh fa-3x]
 @snapend
 
@@ -66,9 +66,8 @@
 ### データ収集・整備
 
 @ul
-- 出来ることのすり合わせ
-- 解決すべき課題の整理
-- 課題の周りのマクロな環境の整理
+- 外部環境データの整理
+- 欠損データの補完の同意・説得
 @ulend
 
 +++
