@@ -22,7 +22,7 @@
 
 ---
 
-### データ分析業務
+@snap[north] データ分析業務
 
 @snap[north-west span-35]
 @box[bg-green text-white box-padding](ヒアリング,提案#)
