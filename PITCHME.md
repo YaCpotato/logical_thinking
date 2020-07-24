@@ -30,20 +30,20 @@
 ---
 
 @snap[north-west span-40]
-@box[bg-green text-white box-padding](ヒアリング,提案#<ul><li>出来ることのすり合わせ</li><li>解決すべき課題の整理</li><li>課題の周りのマクロな環境の整理</li>)
+@box[bg-green text-white box-padding](ヒアリング,提案)
 
 @snapend
 
 @snap[north-east span-40]
-@box[bg-orange text-white rounded box-padding](データ収集・整備#)
+@box[bg-orange text-white rounded box-padding](データ収集・整備)
 @snapend
 
 @snap[south-east span-40]
-@box[bg-pink text-white box-padding](分析#)
+@box[bg-pink text-white box-padding](分析)
 @snapend
 
 @snap[south-west span-40]
-@box[bg-blue text-white waved box-padding](レポーティング#)
+@box[bg-blue text-white waved box-padding](レポーティング)
 @snapend
 
 @snap[midpoint]
@@ -51,4 +51,44 @@
 @fa[refresh fa-3x]
 @snapend
 
----
++++
+
+### ヒアリング,提案
+
+@ul
+- 出来ることのすり合わせ
+- 解決すべき課題の整理
+- 課題の周りのマクロな環境の整理
+@ulend
+
++++
+
+### データ収集・整備
+
+@ul
+- 出来ることのすり合わせ
+- 解決すべき課題の整理
+- 課題の周りのマクロな環境の整理
+@ulend
+
++++
+
+### 分析
+
+@ul
+- 出来ることのすり合わせ
+- 解決すべき課題の整理
+- 課題の周りのマクロな環境の整理
+@ulend
+
++++
+
+### レポーティング
+
+@ul
+- 出来ることのすり合わせ
+- 解決すべき課題の整理
+- 課題の周りのマクロな環境の整理
+@ulend
+
++++
