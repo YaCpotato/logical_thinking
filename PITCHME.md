@@ -30,7 +30,7 @@
 ---
 
 @snap[north-west span-40]
-@box[bg-green text-white box-padding](ヒアリング,提案)
+@box[bg-green text-white box-padding text-10](ヒアリング,提案)
 
 @snapend
 
