@@ -30,20 +30,20 @@
 ---
 
 @snap[north-west span-40]
-@box[bg-green text-white box-padding text-13](ヒアリング,提案)
+@box[bg-green text-white box-padding text-12](ヒアリング提案)
 
 @snapend
 
 @snap[north-east span-40]
-@box[bg-orange text-white rounded box-padding text-13](データ収集・整備)
+@box[bg-orange text-white rounded box-padding text-12](データ収集・整備)
 @snapend
 
 @snap[south-east span-40]
-@box[bg-pink text-white box-padding text-13](分析)
+@box[bg-pink text-white box-padding text-12](分析)
 @snapend
 
 @snap[south-west span-40]
-@box[bg-blue text-white waved box-padding text-13](レポーティング)
+@box[bg-blue text-white waved box-padding text-12](レポーティング)
 @snapend
 
 @snap[midpoint]
