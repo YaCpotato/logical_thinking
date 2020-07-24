@@ -24,6 +24,11 @@
 
 @snap[north-west span-35]
 @box[bg-green text-white box-padding](ヒアリング,提案#)
+
+- 解決すべき課題
+- 課題の周りのマクロな環境の整理
+
+@boxend
 @snapend
 
 @snap[north-east span-35]
