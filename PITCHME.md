@@ -22,8 +22,6 @@
 
 ---
 
-@snap[north] データ分析業務
-
 @snap[north-west span-35]
 @box[bg-green text-white box-padding](ヒアリング,提案#)
 @snapend
@@ -41,6 +39,7 @@
 @snapend
 
 @snap[midpoint]
+データ分析
 @fa[refresh fa-3x]
 @snapend
 
