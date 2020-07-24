@@ -24,14 +24,24 @@
 
 ### データ分析業務
 
+@snap[north-west span-35]
+@box[bg-green text-white box-padding](ヒアリング,提案#)
+@snapend
 
-@box[bg-green text-white box-padding](ヒアリング,提案)
+@snap[north-east span-35]
+@box[bg-orange text-white rounded box-padding](データ収集・整備#)
+@snapend
 
-@box[bg-orange text-white box-padding](データ収集・整備)
+@snap[south-east span-35]
+@box[bg-pink text-white box-padding](分析#)
+@snapend
 
-@box[bg-pink text-white box-padding](データ分析)
+@snap[south-west span-35]
+@box[bg-blue text-white waved box-padding](レポーティング#)
+@snapend
 
-@box[bg-red text-white box-padding](レポーティング)
-
+@snap[midpoint]
+@fa[refresh fa-3x]
+@snapend
 
 ---
