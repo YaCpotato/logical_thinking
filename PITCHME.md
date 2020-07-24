@@ -4,14 +4,13 @@
 ---
 
 ### ロジカル・シンキング
-一貫していて筋が通っている考え方、あるいは説明の仕方のこと．  
-わかっていても，なかなか習慣化は難しい技術  
-ビジネス：文書作成・プレゼン・ビジネスコミュニケーション・商談・課題解決
-分析：膨大な情報の中で、効率よく事実を見つけ出す
+- 考え方に筋道を通し、主張と根拠を論理的に説明
+- ビジネス：文書作成・プレゼン・ビジネスコミュニケーション・商談・課題解決
+- 分析：膨大な情報の中で、効率よく事実を見つけ出す
 
 +++
 
-### ロジカルに伝えるために
+### ロジカル・シンキングのポイント
 
 @ol
 1. 要素(意見や事例，事実)を羅列
@@ -25,28 +24,21 @@
 
 ### データ分析業務
 
-@ul
-- ヒアリング,提案
-- データ収集・整備
-- データ分析
-- レポーティング
-@ulend
-
-全部に使える？
-
----
-
-### 適材適所・シンキング
 @snap[north span-100]
-@box[bg-green text-white box-padding](ロジカル・シンキング#一貫していて筋が通っている考え方、<br>あるいは説明の仕方)
+@box[bg-green text-white box-padding](ヒアリング,提案)
 @snapend
 
 @snap[midpoint span-100]
-@box[bg-orange text-white box-padding](ラテラル・シンキング#思考の制約となる既成概念や固定観念を<br>取り払い、水平方向に発想を広げる)
+@box[bg-orange text-white box-padding](データ収集・整備)
 @snapend
 
 @snap[south span-100]
-@box[bg-pink text-white box-padding](クリティカル・シンキング#思考する前提や過程、論理に渡って<br>「本当にそうだろうか？」と問い続けながらの思考)
+@box[bg-pink text-white box-padding](データ分析)
 @snapend
+
+@snap[south span-100]
+@box[bg-red text-white box-padding](レポーティング)
+@snapend
+
 
 ---
